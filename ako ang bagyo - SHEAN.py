@@ -10,7 +10,7 @@ from functools import lru_cache, partial
 
 lrc = """
 [01:48.81]Tinatali mo ko sa pag asa
-[01:54.48] @ivanhr_r
+[01:54.48] @GIANNN
 [01:56.25]Matakot na kayo
 [02:01.12]Ako, ako, ako ang bagyoooo
 [02:05.86]Kulimlim ng langit sainyong dalawa
